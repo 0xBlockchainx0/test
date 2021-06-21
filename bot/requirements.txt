@@ -1,0 +1,7 @@
+requests
+web3
+argh
+bs4
+keyboard
+termcolor
+pyreadline
